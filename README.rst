@@ -19,4 +19,4 @@ Installation
 2. Include the citylocations URLconf in your project urls.py like this::
     path('', include('citylocations.urls')),
 
-3. Start the development server and visit http://127.0.0.1:8000/
+3. Start the development server and visit http://127.0.0.1:8001/
